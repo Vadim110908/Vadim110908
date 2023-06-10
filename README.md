@@ -1,4 +1,4 @@
-### Hi there 👋
+### ПОШЕЛ ВОН👋
 
 <!--
 **Vadim110908/Vadim110908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
